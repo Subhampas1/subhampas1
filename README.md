@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 WHO AM I (MINIMAL)
+## 🧠 WHO AM I
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgresql,sqlite,git,vercel,figma&theme=dark"/>
@@ -36,7 +36,7 @@
 ---
 
 
-## 🕳️ PROJECTS FROM THE UPSIDE DOWN
+## 🕳️ PROJECTS FROM THE UPSIDE
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=PlaySchool&theme=radical"/>
@@ -84,7 +84,7 @@
 
 ---
 
-## 📡 CONNECT (ICONS ONLY)
+## 📡 CONNECT 
 
 <p align="center">
   <a href="https://subhampaswan.vercel.app">

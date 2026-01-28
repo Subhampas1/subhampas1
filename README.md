@@ -111,21 +111,24 @@
 <br/>
 
 <p align="center">
-  <a href="https://subhampaswan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-ff0000?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <a href="https://subhampaswan.vercel.app" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/subhampas1">
-    <img src="https://img.shields.io/badge/LinkedIn-8b0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/subhampas1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/SubhamPaswan">
-    <img src="https://img.shields.io/badge/Twitter-550000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/SubhamPaswan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Subhampas1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   </a>
 </p>
-
-<br/>
-<br/>
+<br>
+<br>
 
 <p align="center">
   <em>Always building. Always improving.</em>

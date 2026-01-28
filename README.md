@@ -4,8 +4,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:000000,100:1a0000&text=SUBHAM%20PASWAN&fontSize=50&fontColor=ff0000&desc=OPERATING%20BETWEEN%20TWO%20WORLDS&descAlignY=72&stroke=ff0000&strokeWidth=1"/>
 </p>
 
+<!-- 🎬 Typing Cinematic Subtitle -->
 <p align="center">
-  <em>🌑 The Upside Down isn’t a place. It’s a mindset.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=2800&pause=1200&color=FF0000&center=true&vCenter=true&width=600&lines=Building+in+the+Real+World.;Debugging+in+the+Upside+Down.;Shipping+ideas+that+survive+both."/>
+</p>
+
+<!-- 🔴 Subtle Red Divider -->
+<svg width="100%" height="18" viewBox="0 0 1000 18" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="9" x2="1000" y2="9" stroke="#8b0000" stroke-width="1"/>
+</svg>
+
+<p align="center">
+  <em>🌑 “The Upside Down doesn’t change who you are — it reveals it.”</em>
 </p>
 
 ---

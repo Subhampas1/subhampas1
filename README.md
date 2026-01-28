@@ -112,21 +112,29 @@
 
 <p align="center">
   <a href="https://subhampaswan.vercel.app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/subhampas1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://twitter.com/SubhamPaswan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Subhampas1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<br/>
+<br>
+
+<p align="center">
+  <em>Always building. Always improving.</em>
+</p>
+
 <br>
 <br>
 

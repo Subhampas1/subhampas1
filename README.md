@@ -1,6 +1,6 @@
 <!-- ================= STRANGER THINGS | UPSIDE DOWN ================= -->
 <p align="center">
-  <img src="assets/banner.png" alt="Subham Paswan Banner" width="100%" />
+  <img src="assets/banner.png" alt="Subham Paswan Banner" " />
 </p>
 
 <p align="center">

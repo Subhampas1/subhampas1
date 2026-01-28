@@ -8,6 +8,9 @@
   <em>Building scalable applications with clean design and robust backends</em>
 </p>
 
+<br/>
+<br/>
+
 ---
 
 ## 🧠 About Me
@@ -20,9 +23,13 @@
   and long-term maintainability.
 </p>
 
+<br/>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgresql,sqlite,git,figma&theme=dark" />
 </p>
+
+<br/>
 
 <p align="center">
   🎓 <strong>B.Tech (Computer Science)</strong> &nbsp;•&nbsp;
@@ -30,63 +37,89 @@
   🎨 <strong>Design-Driven Engineer</strong>
 </p>
 
+<br/>
+<br/>
+
 ---
 
 ## 📂 Featured Projects
 
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=PlaySchool&theme=radical"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=WACMS&theme=radical"/>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=multilingual-mandi&theme=radical"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=LifeLens&theme=radical"/>
 </p>
+
+<br/>
+<br/>
 
 ---
 
 ## 🕸️ Contribution Activity
 
+<br/>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhampas1&bg_color=000000&color=ff0000&line=8b0000&point=ff0000&area=true&hide_border=true"/>
 </p>
 
+<br/>
+<br/>
+
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhampas1&show_icons=true&theme=radical&hide_border=true"/>
-</p>
+<br/>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhampas1&show_icons=true&theme=radical&hide_border=true"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhampas1&layout=compact&theme=radical&hide_border=true"/>
 </p>
+
+<br/>
+<br/>
 
 ---
 
 ## 📡 Connect
 
+<br/>
+
 <p align="center">
   <a href="https://subhampaswan.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-ff0000?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/subhampas1">
     <img src="https://img.shields.io/badge/LinkedIn-8b0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/SubhamPaswan">
     <img src="https://img.shields.io/badge/Twitter-550000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
----
+<br/>
+<br/>
 
 <p align="center">
   <em>Always building. Always improving.</em>

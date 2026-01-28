@@ -1,85 +1,69 @@
-<!-- STRANGER THINGS × UPSIDE DOWN THEME -->
+<!-- ================= STRANGER THINGS | UPSIDE DOWN ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:000000,100:1a0000&text=SUBHAM%20PASWAN&fontSize=50&fontColor=ff0000&desc=OPERATING%20BETWEEN%20TWO%20WORLDS&descAlignY=72&stroke=ff0000&strokeWidth=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:000000,100:1a0000&text=SUBHAM%20PASWAN&fontSize=54&fontColor=ff0000&desc=OPERATING%20BETWEEN%20THE%20REAL%20WORLD%20%26%20THE%20UPSIDE%20DOWN&descAlignY=78&stroke=ff0000&strokeWidth=1"/>
 </p>
 
-<!-- 🎬 Cinematic Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=17&duration=4200&pause=1600&color=FF0000&center=true&vCenter=true&width=620&lines=Building+in+the+Real+World.;Thinking+in+the+Upside+Down.;Shipping+ideas+that+survive+both."/>
-</p>
-
-<!-- 🔴 Ultra-Subtle Red Divider -->
-<svg width="100%" height="16" viewBox="0 0 1000 16" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="8" x2="1000" y2="8" stroke="#8b0000" stroke-width="1">
-    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="6s" repeatCount="indefinite"/>
-  </line>
-</svg>
-
-<p align="center">
-  <em>🌑 “Not everything buried is gone.”</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=App+Developer+%26+Designer.;Building+Systems+That+Survive.;Debugging+in+the+Upside+Down."/>
 </p>
 
 ---
 
-## 👋 Hi, I’m Subham Paswan
-
-🚀 **App Developer & Designer**  
-Building functional, user-friendly applications with **robust backends** and **clean dashboards**.
-
-🌍 Based in **Jharkhand, India**  
-Focused on **legal-tech, education platforms, and creative digital branding**.
+<!-- 🔴 VISUAL DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%"/>
+</p>
 
 ---
 
-## 🔦 SIGNAL ORIGIN
-
-In the **real world**, I build software.  
-In the **Upside Down**, I debug chaos, design systems, and ship ideas.
-
-- 🎓 **B.Tech in Computer Science**
-- 💻 **React, Express, Sequelize, SQLite, PostgreSQL**
-- ⚡ Backend debugging, workflow automation, environment configuration
-- 🎨 Design-driven mindset — minimalist layouts, geometric branding
-- 🛠 Currently working on:
-  - **Goutam Store** 🛒 — E-commerce platform
-  - **Tiny Toddlers** 🎓 — Education application
-  - **Legal & Education platforms** with admin & user dashboards
+<p align="center">
+  🌑 <em>“What’s buried isn’t gone — it’s growing.”</em>
+</p>
 
 ---
 
-## 🧪 PROJECTS FROM THE OTHER SIDE
+## 🧠 WHO AM I (MINIMAL)
 
-| Project | Tech Stack | Description |
-|-------|-----------|-------------|
-| **PlaySchool** | TypeScript | Interactive learning platform for kids |
-| **WACMS** | JavaScript | CMS with modern, modular UI |
-| **Goutam Store** | TypeScript | Full-stack e-commerce platform |
-| **QuesterCo** | TypeScript | Productivity & gamification tool |
-| **Full-Stack Deploy** | JavaScript | Deployment-ready boilerplate |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgresql,sqlite,git,vercel,figma&theme=dark"/>
+</p>
 
----
-
-## ⚙️ TOOLS I SURVIVE WITH
-
-**Frontend**  
-React · TypeScript · HTML · CSS  
-
-**Backend**  
-Node.js · Express · Sequelize  
-
-**Databases**  
-PostgreSQL · SQLite  
-
-**Tools**  
-Git · Vercel · Terminal Automation  
-
-**Design**  
-Figma · Minimalist Branding · Vector Graphics  
+<p align="center">
+  🎓 B.Tech CSE &nbsp;•&nbsp; 💻 Full-Stack Dev &nbsp;•&nbsp; 🎨 Design-Driven
+</p>
 
 ---
 
-## 🌑 ACTIVITY FROM THE UPSIDE DOWN
+## 🕳️ PROJECTS (VISUAL OVERVIEW)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=PlaySchool&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=WACMS&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=goutamstore&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=QuesterCo&theme=radical"/>
+</p>
+
+---
+
+## 🕸️ THE UPSIDE DOWN (ACTIVITY)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhampas1&bg_color=000000&color=ff0000&line=8b0000&point=ff0000&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 📊 SIGNAL STRENGTH
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Subhampas1&show_icons=true&theme=radical&hide_border=true"/>
@@ -91,23 +75,30 @@ Figma · Minimalist Branding · Vector Graphics
 
 ---
 
-## 🎬 BEYOND THE CODE
-
-- 🎥 Inspired by **Stranger Things aesthetics & cinematic storytelling**
-- 🖌️ Love crafting **clean, modern presentations**
-- 🧠 Always iterating for **scalable, professional solutions**
+<!-- 🔴 VISUAL DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%"/>
+</p>
 
 ---
 
-## 📡 OPEN A CHANNEL
+## 📡 CONNECT (ICONS ONLY)
 
-- 🌐 Portfolio: **https://subhampaswan.vercel.app**
-- 💼 LinkedIn: **https://linkedin.com/in/subhampas1**
-- 🐦 Twitter: **https://twitter.com/SubhamPaswan**
+<p align="center">
+  <a href="https://subhampaswan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-ff0000?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="https://linkedin.com/in/subhampas1">
+    <img src="https://img.shields.io/badge/LinkedIn-8b0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/SubhamPaswan">
+    <img src="https://img.shields.io/badge/Twitter-550000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  🩸 <em>The signal is active. The gate is open. Still building.</em><br/>
-  ⭐ If you like my work, consider giving my repositories a star.
+  🩸 <em>The signal is active.</em><br/>
+  🌑 <em>The gate is open.</em>
 </p>

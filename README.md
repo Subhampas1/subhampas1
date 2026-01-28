@@ -4,31 +4,8 @@
 </h1>
 
 <p align="center">
-  <em style="color:#ff4d4d;">
-    Operating between the Real World & the Upside Down
-  </em>
-</p>
-
----
-
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=App+Developer+%26+Designer.;Building+Systems+That+Survive.;Debugging+in+the+Upside+Down."/>
 </p>
-
----
-
-<!-- 🔴 VISUAL DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%"/>
-</p>
-
----
-
-<p align="center">
-  🌑 <em>“What’s buried isn’t gone — it’s growing.”</em>
-</p>
-
 ---
 
 ## 🧠 WHO AM I

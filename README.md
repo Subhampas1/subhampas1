@@ -47,10 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=multilingual-mandi&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=LifeLens&theme=radical"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=CNN-Corporate-Gifting&theme=radical"/>
-</p>
 >
 
 ---

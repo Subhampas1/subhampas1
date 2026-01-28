@@ -1,10 +1,12 @@
 <!-- ================= STRANGER THINGS | UPSIDE DOWN ================= -->
-<h1 align="center" style="color:#ff0000;">
-  SUBHAM PASWAN
-</h1>
+<h1 align="center">SUBHAM PASWAN</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=App+Developer+%26+Designer.;Building+Systems+That+Survive.;Debugging+in+the+Upside+Down."/>
+  <strong>App Developer & Designer</strong>
+</p>
+
+<p align="center">
+  <em>Building scalable applications with clean design and robust backends</em>
 </p>
 
 ## 🧠 WHO AM I

@@ -134,10 +134,3 @@
 <p align="center">
   <em>Always building. Always improving.</em>
 </p>
-
-<br>
-<br>
-
-<p align="center">
-  <em>Always building. Always improving.</em>
-</p>

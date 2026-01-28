@@ -47,21 +47,27 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=PlaySchool&theme=radical"/>
+  <a href="https://github.com/Subhampas1/PlaySchool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=PlaySchool&theme=radical"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=WACMS&theme=radical"/>
+  <a href="https://github.com/Subhampas1/WACMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=WACMS&theme=radical"/>
+  </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=multilingual-mandi&theme=radical"/>
+  <a href="https://github.com/Subhampas1/multilingual-mandi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=multilingual-mandi&theme=radical"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=LifeLens&theme=radical"/>
+  <a href="https://github.com/Subhampas1/LifeLens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=LifeLens&theme=radical"/>
+  </a>
 </p>
 
-<br/>
-<br/>
 
 ---
 

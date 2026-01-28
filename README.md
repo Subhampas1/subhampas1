@@ -1,11 +1,16 @@
 <!-- ================= STRANGER THINGS | UPSIDE DOWN ================= -->
-<p align="center">
-  <img src="assets/Bannerr.png" alt="Subham Paswan Banner" width="600" />
-</p>
+<h1 align="center" style="color:#ff0000;">
+  SUBHAM PASWAN
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:000000,100:1a0000&text=SUBHAM%20PASWAN&fontSize=54&fontColor=ff0000&desc=OPERATING%20BETWEEN%20THE%20REAL%20WORLD%20%26%20THE%20UPSIDE%20DOWN&descAlignY=78&stroke=ff0000&strokeWidth=1"/>
+  <em style="color:#ff4d4d;">
+    Operating between the Real World & the Upside Down
+  </em>
 </p>
+
+---
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=App+Developer+%26+Designer.;Building+Systems+That+Survive.;Debugging+in+the+Upside+Down."/>
@@ -50,7 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=multilingual-mandi&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=LifeLens&theme=radical"/>
 </p>
->
 
 ---
 

@@ -35,7 +35,8 @@
 
 ---
 
-## 🕳️ PROJECTS (VISUAL OVERVIEW)
+
+## 🕳️ PROJECTS FROM THE UPSIDE DOWN
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=PlaySchool&theme=radical"/>
@@ -43,9 +44,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=goutamstore&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=QuesterCo&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=multilingual-mandi&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=LifeLens&theme=radical"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=CNN-Corporate-Gifting&theme=radical"/>
+</p>
+>
 
 ---
 

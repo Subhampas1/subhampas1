@@ -1,4 +1,3 @@
-<!-- ================= STRANGER THINGS | UPSIDE DOWN ================= -->
 <h1 align="center">SUBHAM PASWAN</h1>
 
 <p align="center">
@@ -9,16 +8,16 @@
   <em>Building scalable applications with clean design and robust backends</em>
 </p>
 
-
-
+---
 
 ## 🧠 About Me
 
 <p align="center">
-  I am a results-oriented <strong>App Developer & Designer</strong> with experience building
-  scalable, user-focused applications using modern web technologies.
-  I specialize in developing robust backends, clean frontends, and intuitive dashboards,
-  with a strong emphasis on performance, maintainability, and design consistency.
+  I am a results-driven <strong>App Developer & Designer</strong> with hands-on experience
+  in building scalable, user-focused applications using modern web technologies.
+  My work focuses on developing reliable backends, clean and maintainable frontends,
+  and intuitive dashboards, with a strong emphasis on performance, scalability,
+  and long-term maintainability.
 </p>
 
 <p align="center">
@@ -31,9 +30,9 @@
   🎨 <strong>Design-Driven Engineer</strong>
 </p>
 
+---
 
-
-## 🕳️ PROJECTS FROM THE UPSIDE
+## 📂 Featured Projects
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhampas1&repo=PlaySchool&theme=radical"/>
@@ -47,7 +46,7 @@
 
 ---
 
-## 🕸️ THE UPSIDE DOWN (ACTIVITY)
+## 🕸️ Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -61,7 +60,7 @@
 
 ---
 
-## 📊 SIGNAL STRENGTH
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Subhampas1&show_icons=true&theme=radical&hide_border=true"/>
@@ -73,14 +72,7 @@
 
 ---
 
-<!-- 🔴 VISUAL DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%"/>
-</p>
-
----
-
-## 📡 CONNECT 
+## 📡 Connect
 
 <p align="center">
   <a href="https://subhampaswan.vercel.app">
@@ -97,6 +89,5 @@
 ---
 
 <p align="center">
-  🩸 <em>The signal is active.</em><br/>
-  🌑 <em>The gate is open.</em>
+  <em>Always building. Always improving.</em>
 </p>

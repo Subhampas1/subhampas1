@@ -1,4 +1,7 @@
 <!-- ================= STRANGER THINGS | UPSIDE DOWN ================= -->
+<p align="center">
+  <img src="assets/banner.png" alt="Subham Paswan Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:000000,100:1a0000&text=SUBHAM%20PASWAN&fontSize=54&fontColor=ff0000&desc=OPERATING%20BETWEEN%20THE%20REAL%20WORLD%20%26%20THE%20UPSIDE%20DOWN&descAlignY=78&stroke=ff0000&strokeWidth=1"/>

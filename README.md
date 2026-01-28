@@ -9,17 +9,28 @@
   <em>Building scalable applications with clean design and robust backends</em>
 </p>
 
-## 🧠 WHO AM I
+
+
+
+## 🧠 About Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgresql,sqlite,git,vercel,figma&theme=dark"/>
+  I am a results-oriented <strong>App Developer & Designer</strong> with experience building
+  scalable, user-focused applications using modern web technologies.
+  I specialize in developing robust backends, clean frontends, and intuitive dashboards,
+  with a strong emphasis on performance, maintainability, and design consistency.
 </p>
 
 <p align="center">
-  🎓 B.Tech CSE &nbsp;•&nbsp; 💻 Full-Stack Dev &nbsp;•&nbsp; 🎨 Design-Driven
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgresql,sqlite,git,figma&theme=dark" />
 </p>
 
----
+<p align="center">
+  🎓 <strong>B.Tech (Computer Science)</strong> &nbsp;•&nbsp;
+  💻 <strong>Full-Stack Developer</strong> &nbsp;•&nbsp;
+  🎨 <strong>Design-Driven Engineer</strong>
+</p>
+
 
 
 ## 🕳️ PROJECTS FROM THE UPSIDE
